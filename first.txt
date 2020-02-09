@@ -1,1 +1,3 @@
 // This file is the first commit and will communicate important info soon
+// The project is ionic-react
+// And I just suggested two days for the Front-end (UI)
